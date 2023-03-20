@@ -1,7 +1,7 @@
 {
   "name": "apireceita",
   "version": "1.0.0",
-  "description": "P lataforma onde os usuários possam compartilhar e descobrir receitas",
+  "description": "Plataforma onde os usuários possam compartilhar e descobrir receitas",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
